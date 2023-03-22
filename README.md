@@ -1,12 +1,9 @@
-# test_repo
-Ugine And Theisgg 
+# README.md
+Eugene and Super-Gijs! 
 
-## a change
-
-## TODO for Ugine:
-- merge the pull request from theisszz
-- create new branch
-- create a change
-- add
-- push
-- create PR
+# ToDos:
+- Merge pull request
+- Create new branch
+- Create change
+- Add
+- Push
