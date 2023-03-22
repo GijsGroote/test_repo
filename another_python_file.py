@@ -1,8 +1,1 @@
-def main():
-
-    print(" Corardo, are you also doing github with us?")
-
-
-if __name__ == '__main__':
-    main()
- 
+print("Hi Gijs, how is it going at RoboHouse? I miss our chats in the evenings or weekends :-)")
