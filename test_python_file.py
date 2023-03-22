@@ -1,9 +1,2 @@
-
-def main():
-
-    print("hi there, Ugine, from Italy")
-
-
-if __name__ == '__main__':
-    main()
+print("I hate functions, so I removed them :-P")
      
